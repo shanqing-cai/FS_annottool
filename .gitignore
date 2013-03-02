@@ -1,0 +1,9 @@
+# Backup files
+*~
+
+# Object files
+*.o
+
+# Binary executables
+readannot
+label2annot
